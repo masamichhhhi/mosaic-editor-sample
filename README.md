@@ -2,8 +2,6 @@
 
 ブラウザ上で動作する動画モザイクエディターです。動画の任意の位置に任意の時間モザイクを付与できます。
 
-![Mosaic Editor](https://via.placeholder.com/800x400?text=Mosaic+Video+Editor)
-
 ## 機能
 
 - 📹 動画のアップロード（MP4, WebM, MOV対応）
